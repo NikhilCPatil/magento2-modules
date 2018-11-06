@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<config>
+    <type name="Magento\OfflineShipping\Model\Carrier\Flatrate\ItemPriceCalculator">
+        <plugin name="nickcpcode_customeshipping_offlineshipping_carrier_flatrate_itempricecalculator" type="Nickcpcode\Customeshipping\Plugin\Flatrate\ItemPriceCalculator" />
+    </type>
+</config>
